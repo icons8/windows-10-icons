@@ -1,0 +1,26 @@
+{
+  "name": "windows-10-icons",
+  "version": "0.9.0",
+  "description": "Windows 10 Icons",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icons8/windows-10-icons"
+  },
+  "keywords": [
+    "windows 10",
+    "win 10",
+    "icons",
+    "icon",
+    "flat",
+    "line",
+    "lean",
+    "Icons8"
+  ],
+  "author": "Icons8",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/icons8/windows-10-icons/issues"
+  },
+  "homepage": "https://github.com/icons8/windows-10-icons"
+}
