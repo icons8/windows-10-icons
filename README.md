@@ -1,6 +1,8 @@
 # Windows 10 Icons
 
-A live [preview](http://icons8.github.io/windows-10-icons/) of the icon set is available.
+[![Preview of Windows 10 Icons](http://cdnd.icons8.com/download/images/win10_preview.png)](https://icons8.github.io/windows-10-icons/)
+
+A live [preview](https://icons8.github.io/windows-10-icons/) of the icon set is available.
 
 
 ##Good Boy License
