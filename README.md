@@ -2,7 +2,7 @@
 
 [![Preview of Windows 10 Icons](http://cdnd.icons8.com/download/images/win10_preview-1.png)](https://icons8.github.io/windows-10-icons/)
 
-A live [preview](https://icons8.github.io/windows-10-icons/) of the icon set is available.
+There is available a live [preview](https://icons8.github.io/windows-10-icons/) of the icon set.
 
 
 ##Good Boy License
@@ -40,7 +40,7 @@ bower install windows-10-icons
 ## Questions or Ideas?
 
 If you have any questions or ideas about icons, please feel free to contact us any way you'd prefer
-* create [issue](https://github.com/icons8/windows-10-icons/issues) o github
+* create an [issue](https://github.com/icons8/windows-10-icons/issues) on github
 * ask on the [buzz.icons8.com](http://buzz.icons8.com)
 * tweet us [@Icons_8](https://twitter.com/)
 * drop a comment on [icons8.com](https://icons8.com/w10).
