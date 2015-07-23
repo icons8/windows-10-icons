@@ -5,8 +5,33 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Windows 10 Icons</title>
+  <title>Windows 10 Icons by Icons8</title>
   <style>
+    body {
+      margin: 0 auto;
+      max-width: 880px;
+      min-width: 350px;
+      color: #68696A;
+      background-color: #ffffff;
+      background-size: 100%;
+      background-position: 100% 100%;
+    }
+    h1, h2, h3 {
+      font-family: Sanchez,serif;
+      font-weight: 400;
+      font-style: normal;
+      margin: 3rem 2rem;
+      color: #6C6C6C;
+    }
+    a {
+      font-family: Sanchez,serif;
+      font-weight: 400;
+      font-style: normal;
+      color: #6C6C6C;
+    }
+    a:hover {
+      color: #000;
+    }
     webicon {
       width: 32px;
       height: 32px;
@@ -15,9 +40,26 @@
   </style>
 </head>
 <body>
+
+<h1>Windows 10 Icons by <a href="https://icons8.com/">Icons8</a></h1>
+
 <div ng-if="icons">
   <webicon icon="{{::icon}}" ng-repeat="icon in ::icons" title="{{::icon}}" />
 </div>
+
+
+<p>
+  <a href="http://icons8.com/10">icons8.com</a>
+  <br/>
+  <br/>
+  <a href="https://github.com/icons8/windows-10-icons">GitHub</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/icons_8">Twitter</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/Icons8?ref=hl">Facebook</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://plus.google.com/+Icons8">Google+</a>
+</p>
 
 <script>
 /*
