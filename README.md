@@ -1,4 +1,4 @@
-# Windows 10 Icons
+# Icons8 Windows 10 Icons
 
 [![Preview of Windows 10 Icons](http://cdnd.icons8.com/download/images/win10_preview-1.png)](https://icons8.github.io/windows-10-icons/)
 
@@ -14,7 +14,14 @@ We’ve released the icon pack under the [Good Boy License](http://icons8.com/go
 No tattoos!
 
 
-## Installing windows 10 icons
+## Author
+
+* Twitter: [@Icons_8](https://twitter.com/)
+* Facebook: [facebook.com/Icons8](https://www.facebook.com/Icons8)
+* Google+: [+Icons8](https://plus.google.com/+Icons8/posts)
+* Web: [icons8.com/w10](https://icons8.com/w10)
+
+## Installing Windows 10 icons
 
 You can install this package locally either with `npm`, `bower`, or `jspm`.
 
