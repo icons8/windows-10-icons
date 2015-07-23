@@ -1,6 +1,6 @@
 # Windows 10 Icons
 
-[![Preview of Windows 10 Icons](http://cdnd.icons8.com/download/images/win10_preview.png)](https://icons8.github.io/windows-10-icons/)
+[![Preview of Windows 10 Icons](http://cdnd.icons8.com/download/images/win10_preview-1.png)](https://icons8.github.io/windows-10-icons/)
 
 A live [preview](https://icons8.github.io/windows-10-icons/) of the icon set is available.
 
