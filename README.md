@@ -1,12 +1,12 @@
 # Icons8 Windows 10 Icons
 
-[![Preview of Windows 10 Icons](http://cdnd.icons8.com/download/images/win10_preview-1.png)](https://icons8.github.io/windows-10-icons/)
+[![Preview of Windows 10 Icons](https://cdnd.icons8.com/download/images/win10_preview-1.png)](https://icons8.github.io/windows-10-icons/)
 
 There is available a live [preview](https://icons8.github.io/windows-10-icons/) of the icon set.
 
 
 ##Good Boy License
-We’ve released the icon pack under the [Good Boy License](http://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
+We’ve released the icon pack under the [Good Boy License](https://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
 * Download
 * Change
 * Fork.
