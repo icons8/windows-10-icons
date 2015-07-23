@@ -36,3 +36,11 @@ npm install windows-10-icons
 ```shell
 bower install windows-10-icons
 ```
+
+## Questions or Ideas?
+
+If you have any questions or ideas about icons, please feel free to contact us any way you'd prefer
+* create [issue](https://github.com/icons8/windows-10-icons/issues) o github
+* ask on the [buzz.icons8.com](http://buzz.icons8.com)
+* tweet us [@Icons_8](https://twitter.com/)
+* drop a comment on [icons8.com](https://icons8.com/w10).
