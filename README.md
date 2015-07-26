@@ -3,6 +3,7 @@
 [![Preview of Windows 10 Icons](https://cdnd.icons8.com/download/images/win10_preview-1.png)](https://icons8.github.io/windows-10-icons/)
 
 There is available a live [preview](https://icons8.github.io/windows-10-icons/) of the icon set.
+Also, you may use them as [iconic webfont](https://icons8.github.io/windows-10-icons/font).
 
 
 ##Good Boy License
