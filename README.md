@@ -21,7 +21,7 @@ No tattoos!
 
 ## Author
 
-* Twitter: [@Icons_8](https://twitter.com/)
+* Twitter: [@Icons_8](https://twitter.com/icons_8)
 * Facebook: [facebook.com/Icons8](https://www.facebook.com/Icons8)
 * Google+: [+Icons8](https://plus.google.com/+Icons8/posts)
 * Web: [icons8.com/w10](https://icons8.com/w10)
@@ -47,5 +47,5 @@ bower install windows-10-icons
 If you have any questions or ideas about icons, please feel free to contact us any way you'd prefer
 * create an [issue](https://github.com/icons8/windows-10-icons/issues) on github
 * ask on the [buzz.icons8.com](http://buzz.icons8.com)
-* tweet us [@Icons_8](https://twitter.com/)
+* tweet us [@Icons_8](https://twitter.com/icons_8)
 * drop a comment on [icons8.com](https://icons8.com/w10).
