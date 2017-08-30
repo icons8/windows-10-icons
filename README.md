@@ -10,7 +10,8 @@ Also, you may use them as [iconic webfont](https://icons8.github.io/windows-10-i
 * Feb 20, 2017 Smile icon added
 
 
-##Good Boy License
+## Good Boy License
+
 We’ve released the icon pack under the [Good Boy License](https://icons8.com/good-boy-license/). We invented it. Please do _whatever your mom would approve of:_
 * Download
 * Change
